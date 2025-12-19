@@ -1,0 +1,9 @@
+[submodule "Hand-Clap-Robot"]
+	path = Hand-Clap-Robot
+	url = git@github.com:MCLusardi/Hand-Clap-Robot.git
+[submodule "ECE-HRI-Final-Project"]
+	path = ECE-HRI-Final-Project
+	url = git@github.com:imngui/ECE-HRI-Final-Project.git
+[submodule "hri_ws"]
+	path = hri_ws
+	url = git@github.com:imngui/hri_ws.git
